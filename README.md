@@ -1,4 +1,4 @@
-# On-learning-extremely-low-dimensional-dynamics-of-deformable-objects-from-experimental-video-data
+# Learning-Low-Dimensional-Representations-for-Deformable-Objects
 
 This repository is for the code accompaning the paper "On learning extremely low dimensional dynamics of deformable objects from experimental video data"
 
@@ -23,7 +23,7 @@ To setup the environment, `git clone` the package and `cd` to the project direct
 ``` bash
 (v1.10) pkg> activate .
 
-(On-learning-extremely-low-dimensional-dynamics-of-deformable-objects-from-experimental-video-data) pkg> instantiate
+(Learning-Low-Dimensional-Representations-for-Deformable-Objects) pkg> instantiate
 ```
 
 ## Training the VAE model
